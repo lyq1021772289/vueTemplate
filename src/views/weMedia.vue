@@ -2,7 +2,7 @@
   <div class="wrapper">
 
     <div class="main main-raised">
-      <div style="margin-bottom: 30px;padding-top:30px;">您现在的位置： 首页 > 服务项目 > 自媒体带货</div>
+      <div style="margin-bottom: 30px;">您现在的位置： 首页 > 服务项目 > 自媒体带货</div>
       <div class="paroduct">
 
         <img class='left' src="@/assets/img/22.jpg">

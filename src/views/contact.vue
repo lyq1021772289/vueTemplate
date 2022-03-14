@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
     <div class="main main-raised">
-      <h3 style="font-weight:400;margin-bottom:20px;">公司地址</h3>
+      <h3 style="font-weight:400;margin-bottom:20px;margin-top: -5%;">公司地址</h3>
       <div class="introduce contact" :style="{background:backgroundImage}">
         <div class="left">
           

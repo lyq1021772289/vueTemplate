@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper">
-    <div style="margin-bottom:-80px">
+    <div class="banner">
       <img style="width:100%;" src="@/assets/img/vue-mk-header.jpg">
     </div>
     <div class="main main-raised">
@@ -91,12 +91,16 @@ export default {
 };
 </script>
 <style lang="scss">
-
+.banner{margin-bottom:-5%}
 
 @media all and (min-width: 991px) {
   .btn-container {
     display: flex;
   }
 }
-
+@media all and (max-width: 990px) {
+  .btn-container {
+    display: flex;
+  }
+}
 </style>

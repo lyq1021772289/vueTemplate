@@ -1,0 +1,44 @@
+{
+  "id": "3251091",
+  "name": "basic",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5303378",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "14313162",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "9627991",
+      "name": "赔偿金额",
+      "font_class": "peichangjine",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "10392612",
+      "name": "盾牌",
+      "font_class": "dunpai",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "10987666",
+      "name": "赔偿",
+      "font_class": "peichang",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    }
+  ]
+}
